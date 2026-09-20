@@ -130,3 +130,11 @@ Tools/Techniques Not Helpful?
 
 //Nick
 While I have been mainly using the same tools as last time and not had many issues, I still have an issue with GitHub and Unreal Engine 5. When trying to push to github some of the stuff that I have created in Unreal pops up as errors and it will delete what I have done because it wont accept my yes command to keep it. This caused me to have to rewrite what I have done while adding what needs to be completed for this week. I found out how useful the Unreal Engine store is with free object that I can download to make my project look better. I download a village file that included objects that I could place on the level and spruce it up. 
+
+
+## GAM-495 Final Update
+
+Final Updates Done
+
+//Nick
+I went through my blueprints made for my original project. Using the review left by my instructor in my Gam-495 class I adjusted and added comments to the project. I couldn't find any use of the unnecessary debug text in my  final presentation. The only real updates made in the code was comments made to the AI blueprints so certain sections would be easier to understand. The comments tells the viewer what the code layout does for the game. Since I was struggling to push the update to the GitHub I will submit photos to provide my proof of what was done. The project somehow got disconnected from the github and i didnt know how to fix it.
